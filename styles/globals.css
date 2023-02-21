@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #fff;
+    --secondary-color: #67a46c;
+    --ternary-color: #edd566;
+    --quaternary-color: #6e7779;
+    --quinary-color: rgba(76, 238, 73, 0.5);
+    --font-mono: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto;
+}
+
